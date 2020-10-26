@@ -8,3 +8,7 @@ User can use 'DISCOUNT' promocode to avail extra 10% discount. Coupon can be use
 Click on Item Details and Promo Code link to see collapsed value.
 
 Screenshots:
+
+![](https://github.com/tushargoel86/shopping_cart_react/blob/main/img/home.PNG) ![](https://github.com/tushargoel86/shopping_cart_react/blob/main/img/expanded.PNG)
+
+![](https://github.com/tushargoel86/shopping_cart_react/blob/main/img/promocod.PNG)
